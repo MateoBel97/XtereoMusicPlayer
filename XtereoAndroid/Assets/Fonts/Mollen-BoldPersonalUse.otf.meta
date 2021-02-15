@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bad5280c1462cb449a11c68d41495efb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mollen Personal Use
+  fontNames:
+  - Mollen Personal Use
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3f1f85b61f61dfd4f86ee7d4b30f9352, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
